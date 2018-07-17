@@ -7,3 +7,7 @@ body {
 header {
   text-align: center;
 }
+
+ul {text-align: justify;
+  padding-left: 300px;
+}
